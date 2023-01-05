@@ -191,7 +191,7 @@
 | [rss](https://github.com/zyujs/rss) | [@zyujs](https://github.com/zyujs) | 通用型rss订阅插件,地河喵kkp! |2021-08-26 19:37:42|
 | [setu_mix](https://github.com/zyujs/setu_mix) | [@zyujs](https://github.com/zyujs) | 懂的都懂 |2021-01-04 15:25:57|
 | [clanbattle_report](https://github.com/zyujs/clanbattle_report) | [@zyujs](https://github.com/zyujs) | 生成yobot会战报告 |2021-06-15 10:25:32|
-| [clanbattle_rank](https://github.com/zyujs/clanbattle_rank) <!--cont.-->| [@zyujs](https://github.com/zyujs) | 国服会战排名查询和 推送 |2022-02-21 13:58:53|
+| [clanbattle_rank](https://github.com/zyujs/clanbattle_rank) | [@zyujs](https://github.com/zyujs) | 国服会战排名查询和 推送 |2022-02-21 13:58:53|
 | [clanbattle_info](https://github.com/zyujs/clanbattle_info) | [@zyujs](https://github.com/zyujs) | 国服会战出刀信息推 送及yobot自动报刀 |2020-12-14 20:30:13|
 | [FF14](https://github.com/zangxx66/HoshinoBot-xcwRecord#pcr无关) | [@zangxx66](https://github.com/zangxx66) | 钓鱼笔记、钓鱼日记、钓鱼区域 |2022-11-22 21:09:39|
 | [群管](https://github.com/zangxx66/HoshinoBot-xcwRecord#聊天) | [@zangxx66](https://github.com/zangxx66) | 迫害龙王、 申请头衔等 |2022-11-22 21:09:39|
@@ -222,7 +222,7 @@
 | [eqa](https://github.com/pcrbot/erinilis-modules/tree/master/eqa) | [@yuyumoko](https://github.com/yuyumoko) | 群内设 置问答 |2022-11-12 18:59:28|
 | [人脸合成](https://github.com/pcrbot/erinilis-modules/tree/master/emergeface) | [@yuyumoko](https://github.com/yuyumoko) | 两张图换脸 |2022-11-12 18:59:28|
 | [公会战排名](https://github.com/pcrbot/erinilis-modules/tree/master/eclanrank) | [@yuyumoko](https://github.com/yuyumoko) | |2022-11-12 18:59:28|
-| [风纪](https://github.com/pcrbot/erinilis-modules/tree/master/eclanblack) | [@yuyumoko](https://github.com/yuyumoko) | NGA 风纪区黑名单查询 |2022-11-12 18:59:28|
+| [风纪](https://github.com/pcrbot/erinilis-modules/tree/master/eclanblack) <!--cont.-->| [@yuyumoko](https://github.com/yuyumoko) | NGA 风纪区黑名单查询 |2022-11-12 18:59:28|
 | [度盘](https://github.com/pcrbot/erinilis-modules/tree/master/baidupan) | [@yuyumoko](https://github.com/yuyumoko) |  度盘直链解析 |2022-11-12 18:59:28|
 | [点歌](https://github.com/pcrbot/music) | [@laipz8200](https://github.com/laipz8200) | |2021-09-03 15:04:24|
 | [steam](https://github.com/pcrbot/steam) | [@wdvxdr1123](https://github.com/wdvxdr1123) | ~~“群主正在游玩猫娘乐园”~~ |2021-01-11 15:27:03|
