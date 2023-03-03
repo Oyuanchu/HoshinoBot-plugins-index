@@ -96,7 +96,7 @@
 | [幻影坦克生成器](https://github.com/kosakarin/hide_img) | [@kosakarin](https://github.com/kosakarin) | 发送两张图片生成幻影坦克 |2022-01-01 19:34:19|
 | [游戏开黑](https://github.com/kosakarin/play_together) | [@kosakarin](https://github.com/kosakarin) | 辅助群内开黑，可以记录群内开了哪些车 |2022-09-28 15:27:31|
 | [游戏王印卡](https://github.com/N-zi/mahoo) | [@N-zi](https://github.com/N-zi) | 游戏王卡图生成 |2022-08-01 18:05:25|
-| [我朋友说](https://github.com/kosakarin/I_have_a_friend) <!--cont.-->| [@kosakarin](https://github.com/kosakarin) | 我这朋友说不定是我自己 |2022-08-22 13:27:50|
+| [我朋友说](https://github.com/kosakarin/I_have_a_friend) | [@kosakarin](https://github.com/kosakarin) | 我这朋友说不定是我自己 |2022-08-22 13:27:50|
 | [在线运行代码](https://github.com/CMHopeSunshine/codeonline) | [@CMHopeSunshine](https://github.com/CMHopeSunshine) | 基于glot.io的bot运行代码插件 |2022-03-21 15:02:50|
 |[群友语录](https://github.com/kosakarin/group_quotations)| [@kosakarin](https://github.com/kosakarin) | 仿照朋友的bot写的一个上传图片到bot的功能 |2022-07-20 15:56:40|
 | [小鸡词典](https://github.com/zangxx66/jiwiki) | [@zangxx66](https://github.com/zangxx66) | 网络流行语词典，查询你不知道的那些梗或词语 |2022-06-19 10:06:19|
@@ -107,7 +107,7 @@
 | [genshin_price](https://github.com/lhhxxxxx/genshin_price) | [@lhhxxxxx](https://github.com/lhhxxxxx) | 查询账号估价 |2021-11-20 21:44:46|
 | [要我一直img吗](https://github.com/pcrbot/yaowoyizhi) | [@mahosho](https://github.com/mahosho) | img\n要我一直img吗 |2022-02-13 05:57:12|
 | [飞天大蟑螂](https://github.com/kosakarin/hoshino_big_cockroach) | [@kosakarin](https://github.com/kosakarin) | 发送白底有随机数量随机旋转角度的飞天大蟑螂图片，我的建议是：别用！ |2021-12-01 10:48:17|
-| [磁力链搜索](https://github.com/half-ghost/bt_search)|[@half-ghost](https://github.com/half-ghost)|磁力链搜索插件。好耶！再也不怕找不到车了！（|2022-06-30 16:56:20|
+| [磁力链搜索](https://github.com/half-ghost/bt_search)|[@half-ghost](https://github.com/half-ghost)|磁力链搜索插件。好耶！再也不怕找不到车了！（|2023-02-22 00:41:48|
 | [奥利奥绘制](https://github.com/C-Jun-GIT/Oreo) | [@菌落](https://github.com/C-Jun-GIT/Oreo)  [@咕咕鸽](https://github.com/Adminicoder)| 通过排列组合来自定义属于自己的奥利奥吧！ |2022-08-12 08:10:25|
 | [战地1/5战绩查询(图片版)](https://github.com/half-ghost/bf_record_search)|[@half-ghost](https://github.com/half-ghost)|战地1、5战绩查询插件，以图片形式呈现|2022-05-19 02:03:34|
 | [答案之书](https://github.com/A-kirami/answersbook) | [@A-kirami](https://github.com/A-kirami) | 愿一切无解都有解！解除你的迷惑，终结你的纠结！ |2022-09-14 22:11:20|
@@ -144,15 +144,15 @@
 | [cp](https://github.com/scofieldle/LeoBot/tree/main/hoshino/modules/cp) | [@scofieldle](https://github.com/scofieldle) | 土味情话小插件 |2022-06-21 09:49:47|
 | [MuseDashWiki](https://github.com/Soung2279/musewiki) | [@Soung2279](https://github.com/Soung2279) | 音游MuseDash(喵斯快跑)百科查询插件，好耶！是MD！|2022-05-15 13:20:16|
 | [blhx_wiki](https://github.com/Gaylone/blhx_wiki) | [@Gaylone](https://github.com/Gaylone) | 碧蓝航线wiki用于获取舰船信息，立绘，推荐出装等信息 |2022-12-01 15:58:06|
-| [clanbattle_info](https://github.com/cc004/clanbattle_info) | [@cc004](https://github.com/cc004) | 公主连结国服公会战数据查询及自动报刀插件 |2022-04-26 22:54:28|
+| [clanbattle_info](https://github.com/cc004/clanbattle_info) | [@cc004](https://github.com/cc004) | 公主连结国服公会战数据查询及自动报刀插件 |2023-02-23 21:36:41|
 | [market](https://github.com/cc004/market) | [@cc004](https://github.com/cc004) | hoshinobot的大头菜插件 |2022-01-21 16:22:53|
 | [pcrjjc2](https://github.com/cc004/pcrjjc2) | [@cc004](https://github.com/cc004) | 公主连结竞技场排名查询订阅工具 |2022-12-22 09:02:54|
 | [邦邦档线预测](https://github.com/assassingyk/bandori-predict) | [@assassingyk](https://github.com/assassingyk) | BanGDream音游档线预测工具 |2022-06-15 15:58:22|
-| [maimaiDX](https://github.com/Yuri-YuzuChaN/maimaiDX) | [@Yuri-YuzuChaN](https://github.com/Yuri-YuzuChaN) | 街机音游舞萌DX查询插件，移植自xybot及mai-bot |2023-02-15 21:36:07|
+| [maimaiDX](https://github.com/Yuri-YuzuChaN/maimaiDX) | [@Yuri-YuzuChaN](https://github.com/Yuri-YuzuChaN) | 街机音游舞萌DX查询插件，移植自xybot及mai-bot |2023-03-02 03:30:58|
 | [战地 1/4/5 战绩查询](https://github.com/azmiao/bf_search) | [@azmiao](https://github.com/azmiao) | 可公开版本的 战地1 / 战地4 / 战地5 战绩信息查询插件，偷偷感谢一下冷雷佬和K-ON服服主 SuzuBucket |2021-09-29 13:17:32|
 | [A-soul发病小作文](https://github.com/RMYHY/RBot/tree/main/HoshinoBot/hoshino/modules/asill) | [@RMYHY](https://github.com/RMYHY) | 可自定义发病对象的真情实感小作文 |2022-05-26 13:17:55|
 | [本地涩图增强版](https://github.com/Soung2279/setu-local-extra) | [@Soung2279](https://github.com/Soung2279) | hoshino的本地涩图魔改版，可自助重置次数和自定义撤回等。 |2022-08-30 03:10:52|
-| [币安推送](https://github.com/scofieldle/LeoBot/tree/main/hoshino/modules/bianPush) | [@scofieldle](https://github.com/scofieldle) | 本插件用于动态监测币安上各种货币涨跌情况 |2022-06-21 09:49:47|
+| [币安推送](https://github.com/scofieldle/LeoBot/tree/main/hoshino/modules/bianPush) <!--cont.-->| [@scofieldle](https://github.com/scofieldle) | 本插件用于动态监测币安上各种货币涨跌情况 |2022-06-21 09:49:47|
 | [P站搜索](https://github.com/scofieldle/LeoBot/tree/main/hoshino/modules/pixiv_new) | [@scofieldle](https://github.com/scofieldle) | 使用refresh_token和插件pixiv3直接获取P站插画，可根据画师ID和插画ID搜索相关的插画 |2022-06-21 09:49:47|
 | [崩3日历](https://github.com/NepPure/bh3_calendar) | [@NepPure](https://github.com/NepPure) | [@zyujs](https://github.com/zyujs)风格崩3日历，数据源游戏内公告 |2021-10-04 16:33:41|
 | [原神日历](https://github.com/NepPure/genshin_calendar) | [@NepPure](https://github.com/NepPure) | [@zyujs](https://github.com/zyujs)风格原神日历，数据源游戏内公告 |2022-09-26 22:52:16|
