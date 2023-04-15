@@ -158,7 +158,7 @@
 | [原神日历](https://github.com/NepPure/genshin_calendar) | [@NepPure](https://github.com/NepPure) | [@zyujs](https://github.com/zyujs)风格原神日历，数据源游戏内公告 |2022-09-26 22:52:16|
 | [osuv2](https://github.com/Yuri-YuzuChaN/osuv2) | [@Yuri-YuzuChaN](https://github.com/Yuri-YuzuChaN) | 音游osu查询插件v2api版本，新的发送方式及功能 |2023-03-23 19:11:06|
 | [台服会战排名查询](https://github.com/pcrbot/clan_search_tw) | [@azmiao](https://github.com/azmiao) | 查询台服的会战排名和档线（数据来自infedg.xyz和layvtwt.top） |2022-07-29 10:22:10|
-| [大司马发病评论](https://github.com/pcrbot/dasima) <!--cont.-->| [@Soung2279](https://github.com/Soung2279) | 大司马B站发病评论查看 |2021-08-20 02:44:42|
+| [大司马发病评论](https://github.com/pcrbot/dasima) | [@Soung2279](https://github.com/Soung2279) | 大司马B站发病评论查看 |2021-08-20 02:44:42|
 | [服务器信息查询](https://github.com/pcrbot/advance_check_hoshinobot) | [@Soung2279](https://github.com/Soung2279) | 可快速查询bot搭载的服务器相关硬件信息 |2021-09-10 01:08:00|
 | [算法竞赛开赛提醒](https://github.com/pcrbot/CodingReminder) | [@Lanly109](https://github.com/Lanly109) | 算法竞赛开赛提醒插件 |仓库已失效|
 | [词云](https://github.com/erweixi/wordcloud-hoshino) | [@erweixi](https://github.com/erweixi) | 基于聊天记录log而生成的词云 |2021-10-20 22:01:48|
@@ -186,7 +186,7 @@
 | [PCR赛跑（带下注）](https://github.com/Rs794613/PcrRun) | [@Rs794613](https://github.com/Rs794613) | 带下注和技能的pcr角色赛跑，可以自己设计角色。 |2021-02-16 20:42:37|
 | [合刀](https://github.com/bugaosuni59/my_Hoshinobot_plugins) | [@bugaosuni59](https://github.com/bugaosuni59) | 合刀计算器(2刀) |2020-12-25 00:47:55|
 | [setu_renew](https://github.com/pcrbot/setu_renew) | [@corvo007](https://github.com/corvo007) | setu_mix的改进版 |2022-08-18 19:18:04|
-| [pcr_calendar](https://github.com/zyujs/pcr_calendar) | [@zyujs](https://github.com/zyujs) | 推送和查询国/日/台服活动 日历 |2022-12-15 11:42:33|
+| [pcr_calendar](https://github.com/zyujs/pcr_calendar) | [@zyujs](https://github.com/zyujs) | 推送和查询国/日/台服活动 日历 |2023-04-11 13:30:36|
 | [星乃调教助手](https://github.com/zyujs/hoshino_training) | [@zyujs](https://github.com/zyujs) | HoshinoBot功能定制 |2023-01-29 08:36:58|
 | [rss](https://github.com/zyujs/rss) | [@zyujs](https://github.com/zyujs) | 通用型rss订阅插件,地河喵kkp! |2021-08-26 19:37:42|
 | [setu_mix](https://github.com/zyujs/setu_mix) | [@zyujs](https://github.com/zyujs) | 懂的都懂 |2021-01-04 15:25:57|
@@ -210,7 +210,7 @@
 | [公会战报告书](https://github.com/A-kirami/ClanBattleReport) | [@A-kirami](https://github.com/A-kirami) | 生成 Yobot  的公会战报告书 |2021-03-16 05:07:47|
 | [买药提醒](https://github.com/pcrbot/HoshinoBuyPotionReminder) | [@LQBing](https://github.com/LQBing) | |2020-07-26 00:39:50|
 | [挂树提醒](https://github.com/bugaosuni59/ontree_scheduler) | [@bugaosuni59](https://github.com/bugaosuni59) | 挂树时 间提醒修改版，支持查树、尾刀下树|2021-04-14 23:56:12|
-| [挂树提醒](https://github.com/pcrbot/ontree_scheduler) | [@ArisakaRayee](https://github.com/ArisakaRayee) | 挂树时间提醒 |2021-04-10 18:53:53|
+| [挂树提醒](https://github.com/pcrbot/ontree_scheduler) <!--cont.-->| [@ArisakaRayee](https://github.com/ArisakaRayee) | 挂树时间提醒 |2021-04-10 18:53:53|
 | [俄罗斯轮盘](https://github.com/pcrbot/russian) | [@H-K-Y](https://github.com/H-K-Y) | 群内小游戏 |2020-08-06 13:02:48|
 | [网页授权](https://github.com/pcrbot/pcr-auth-vue) | [@wdvxdr1123](https://github.com/wdvxdr1123) | |2020-09-05 12:55:25|
 | [和风天气](https://github.com/pcrbot/heweather) | [@xhl6666](https://github.com/xhl6666) | |2021-01-05 00:13:55|
