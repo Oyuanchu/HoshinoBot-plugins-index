@@ -63,9 +63,9 @@
 | [yobot多人申请出刀版](https://github.com/fengjk12138/yobot) | [@fengjk12138](https://github.com/fengjk12138) | 支持多人申请出刀、更新伤害信息等操作，方便筛刀和观察进入人数 |2022-09-21 21:43:38|
 | [补偿轴计算器](https://github.com/OREOCODEDEV/pcr_time_calculator) | [@OREOCODEDEV](https://github.com/OREOCODEDEV) | 计算返还时间下对应的时间轴 |2022-05-19 01:48:05|
 | [计算器](https://github.com/OREOCODEDEV/bot_calculator) | [@OREOCODEDEV](https://github.com/OREOCODEDEV) | 计算群聊中的四则运算消息 |2022-04-30 14:28:51|
-| [R6S战绩查询](https://github.com/YongHuM1ng/R6stat) <!--cont.-->| [@YongHuM1ng](https://github.com/YongHuM1ng) | 彩虹六号：围攻 战绩查询/战绩图生成 |2022-06-29 20:27:34|
+| [R6S战绩查询](https://github.com/YongHuM1ng/R6stat) | [@YongHuM1ng](https://github.com/YongHuM1ng) | 彩虹六号：围攻 战绩查询/战绩图生成 |2022-06-29 20:27:34|
 | [定时提醒摸鱼](https://github.com/benx1n/when2holiday) | [@benx1n](https://github.com/benx1n) | 含剩余假期的定时提醒摸鱼小助手 |2022-10-25 15:43:03|
-| [hoshinobot-plugin-ddcheck](https://github.com/benx1n/hoshinobot-plugin-ddcheck) | [@MeetWq](https://github.com/MeetWq)[@benx1n](https://github.com/benx1n) | 移植自[nonebot-plugin-ddcheck](https://github.com/noneplugin/nonebot-plugin-ddcheck)的DD成分姬插件，支持生成含牌子等级的关注列表图片 |2023-02-08 14:03:54|
+| [hoshinobot-plugin-ddcheck](https://github.com/benx1n/hoshinobot-plugin-ddcheck) | [@MeetWq](https://github.com/MeetWq)[@benx1n](https://github.com/benx1n) | 移植自[nonebot-plugin-ddcheck](https://github.com/noneplugin/nonebot-plugin-ddcheck)的DD成分姬插件，支持生成含牌子等级的关注列表图片 |2023-06-12 14:19:49|
 | [股票查询](https://github.com/SonderXiaoming/stock-check) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 满足群友上班边摸鱼边炒股的要求 |2022-09-10 10:56:09|
 | [tarot_hoshino_plus](https://github.com/assassingyk/tarot_hoshino_plus) | [@assassingyk](https://github.com/assassingyk) | 增强版可自定义牌阵卡图的塔罗牌插件 |2022-04-12 10:30:49|
 | [查牌子](https://github.com/DYS763/paizi) | [@DYS763](https://github.com/DYS763) | 用uid查询B站粉丝牌与对应的主播 |2022-04-06 08:52:39|
@@ -79,7 +79,7 @@
 | [赛马娘插件v2](https://github.com/azmiao/uma_plugin) | [@azmiao](https://github.com/azmiao) | > 王婆卖瓜，自卖自夸，插件好用！<br>> 插件一个更比十个强，物美价廉，你，值得拥有！ |2023-06-08 17:43:43|
 | [Hoshinobot-plugin-petpet](https://github.com/chingkingm/Hoshinobot-plugin-petpet) | [@MeetWq](https://github.com/MeetWq)[@chingkingm](https://github.com/chingkingm) | 移植自[nonebot-plugin-petpet](https://github.com/MeetWq/nonebot-plugin-petpet)的头像表情包生成器|2022-06-21 21:38:27|
 |[steam_crawler_botV2](https://github.com/half-ghost/steam_crawler_botV2) | [@half-ghost](https://github.com/half-ghost) | steam_crawler_bot插件第二版，新增了一些功能|2023-03-14 01:03:11|
-| [pcrjjc3](https://github.com/azmiao/pcrjjc3-tw) | [@cc004](https://github.com/cc004)[@azmiao](https://github.com/azmiao)[@CYDXDianXian](https://github.com/CYDXDianXian) | 由pcrjjc2修改而来的适用pcr台服的竞技场插件，额外支持了多服查询 |2023-06-07 22:30:55|
+| [pcrjjc3](https://github.com/azmiao/pcrjjc3-tw) | [@cc004](https://github.com/cc004)[@azmiao](https://github.com/azmiao)[@CYDXDianXian](https://github.com/CYDXDianXian) | 由pcrjjc2修改而来的适用pcr台服的竞技场插件，额外支持了多服查询 |2023-06-20 14:30:10|
 | [图片套娃](https://github.com/watermellye/yaowoyizhi/) | [@ellye](https://github.com/watermellye) [@mahosho](https://github.com/mahosho) | [要我一直img吗](https://github.com/pcrbot/yaowoyizhi)重构版，新增套娃和支持自定义文字。 |2022-08-01 14:36:59|
 | [合刀计算器 终极版](https://github.com/pcrbot/pcr_calculator_plus/) | [@ellye](https://github.com/watermellye) | 支持计算补时、一穿二反时、根据期望反时计算垫刀伤害、表达式输入等。 |2022-06-03 16:20:03|
 | [赛马娘模拟抽卡](https://github.com/azmiao/uma_gacha) | [@azmiao](https://github.com/azmiao) | 另一个由nb插件移植而来的可自动更新的赛马娘模拟抽卡插件。马之井！冲冲冲 |2022-04-20 16:38:51|
@@ -114,7 +114,7 @@
 | [群聊词云生成](https://github.com/A-kirami/GroupWordCloudGenerator) | [@A-kirami](https://github.com/A-kirami) | 一个群/个人词云生成器，记录聊天记录并生成个人/群组词云 |2023-05-06 19:09:35|
 | [早安晚安](https://github.com/azmiao/good_morning) | [@azmiao](https://github.com/azmiao) | 哦哈哟！哦呀斯密！ |2023-03-26 13:59:13|
 | [pcr签到黄历](https://github.com/azmiao/pcr_almanac) | [@azmiao](https://github.com/azmiao) | 今日宜：单抽出奇迹 |2022-07-15 21:11:59|
-| [mc数据查询推送](https://github.com/azmiao/mc_status) | [@azmiao](https://github.com/azmiao) | 这玩意没啥用，顶多监控着自己服务器啥时候有小伙伴进来 |2022-07-14 17:35:02|
+| [mc数据查询推送](https://github.com/azmiao/mc_status) <!--cont.-->| [@azmiao](https://github.com/azmiao) | 这玩意没啥用，顶多监控着自己服务器啥时候有小伙伴进来 |2022-07-14 17:35:02|
 | [autocb](https://github.com/yoooowi/pcr_autocb) | [@yoooowi](https://github.com/yoooowi/) | 自动获取国服公会战进度及排名，推送boss变更，保存每日出刀记录等，附带魔改版会战报告 |2022-06-28 14:03:00|
 | [来点老八/庸子](https://github.com/ExcitingFrog/lao8yongzi) | [@ExcitingFrog](https://github.com/ExcitingFrog) | 发老八或者庸子的"美食" |2021-10-17 15:39:11|
 | [青年大学习](https://github.com/SlightDust/daxuexi_HoshinoBot) | [@SlightDust](https://github.com/SlightDust/) | 获取本期青年大学习的答案 |2022-06-13 10:59:49|
