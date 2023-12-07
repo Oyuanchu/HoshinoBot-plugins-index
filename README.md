@@ -51,13 +51,13 @@
 | [汇率查询](https://github.com/SonderXiaoming/money_exchange_rate) | [@SonderXiaoming](https://github.com/SonderXiaoming) [@stbcx001](https://github.com/stbcx001)| 查询货币汇率，支持自定义 |2023-03-10 13:16:37|
 | [everyday_news](https://github.com/PerfBleu/everyday_news) | [@PerfBleu](https://github.com/PerfBleu) | 适用于Hoshino的每日简报 |2023-01-14 00:03:22|
 | [sysinfo-for-hoshino](https://github.com/PerfBleu/sysinfo-for-hoshino) | [@PerfBleu](https://github.com/PerfBleu) | 调用screenfetch获取系统信息 |2022-05-26 21:09:37|
-| [wows-stats-bot](https://github.com/benx1n/wows-stats-bot) | [@benx1n](https://github.com/benx1n) | 战舰世界/窝窝屎水表插件，yuyuko的hoshino实现，支持wws me recent |2023-09-09 21:40:51|
+| [wows-stats-bot](https://github.com/benx1n/wows-stats-bot) | [@benx1n](https://github.com/benx1n) | 战舰世界/窝窝屎水表插件，yuyuko的hoshino实现，支持wws me recent |2023-12-06 12:31:21|
 | [数字恶臭化插件](https://github.com/SonderXiaoming/homo) | [@SonderXiaoming](https://github.com/SonderXiaoming) [@stbcx001](https://github.com/stbcx001)| 将任意数字以114514表示 |2022-05-24 13:39:57|
-| [头像表情包生成器](https://github.com/Lanly109/headimg_generator) | [@Lanly109](https://github.com/Lanly109) | 移植自[nonebot-plugin-petpet](https://github.com/noneplugin/nonebot-plugin-petpet)的头像表情包生成器 |2023-10-18 11:04:56|
+| [头像表情包生成器](https://github.com/Lanly109/headimg_generator) | [@Lanly109](https://github.com/Lanly109) | 移植自[nonebot-plugin-petpet](https://github.com/noneplugin/nonebot-plugin-petpet)的头像表情包生成器 |2023-12-03 10:52:30|
 | [xqa](https://github.com/azmiao/XQA) | [@azmiao](https://github.com/azmiao) | 一个支持正则，支持回流，支持随机回答，支持图片等CQ码的你问我答 |2023-08-31 17:23:41|
-| [Blue_Archive_HoshinoBot](https://github.com/Cosmos01/Blue_Archive_HoshinoBot) | [@Cosmos01](https://github.com/Cosmos01) | 碧蓝档案图形化活动日历、模拟抽卡、官推转发、总力攻略图、汉化漫画获取插件 |2023-11-20 10:50:44|
+| [Blue_Archive_HoshinoBot](https://github.com/Cosmos01/Blue_Archive_HoshinoBot) | [@Cosmos01](https://github.com/Cosmos01) | 碧蓝档案图形化活动日历、模拟抽卡、官推转发、总力攻略图、汉化漫画获取插件 |2023-12-05 14:42:01|
 | [帮助网页版](https://github.com/SonderXiaoming/autohelp) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 全自动生成帮助网页 |2022-08-13 10:19:54|
-| [丁真插件](https://github.com/Pr0pHesyer/RandomDingzhen) | [@Pr0pHesyer](https://github.com/Pr0pHesyer) | 获取丁真梗图 |2022-05-15 15:44:48|
+| [丁真插件](https://github.com/Pr0pHesyer/RandomDingzhen) <!--cont.-->| [@Pr0pHesyer](https://github.com/Pr0pHesyer) | 获取丁真梗图 |2022-05-15 15:44:48|
 | [音游一言](https://github.com/Pr0pHesyer/MUG_one_sentence) | [@Pr0pHesyer](https://github.com/Pr0pHesyer) | 获取及修改有关音游的一言 |2022-05-07 20:42:56|
 | [yobot魔改版](https://github.com/eggggi/yobot_remix) | [@eggggi](https://github.com/eggggi) | yobot魔改版，支持新版会战 |2023-11-19 16:01:13|
 | [yobot多人申请出刀版](https://github.com/fengjk12138/yobot) | [@fengjk12138](https://github.com/fengjk12138) | 支持多人申请出刀、更新伤害信息等操作，方便筛刀和观察进入人数 |2022-09-21 21:43:38|
