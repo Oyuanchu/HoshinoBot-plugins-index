@@ -124,7 +124,7 @@
 | [FGO日历](https://github.com/NepPure/fgo_calendar) | [@NepPure](https://github.com/NepPure) | [@zyujs](https://github.com/zyujs)风格FGO日历，数据源B服官网新闻 |2021-12-29 20:56:08|
 | [网页截图](https://github.com/pcrbot/pagecut) | [@G41mywaifu](https://github.com/G41mywaifu) | 发送指定网页的页面截图 |2022-11-26 16:43:35|
 | [vtbuber名单查询](https://github.com/Soung2279/vdb_list) | [@Soung2279](https://github.com/Soung2279) | 以[VTuber Database](https://github.com/dd-center/vdb)为数据来源的vtuber查询功能，查询某人是否为vtb，并给出相关信息。可模糊匹配|2021-10-26 15:12:12|
-| [百度一下](https://github.com/Soung2279/baidu_search) <!--cont.-->| [@Soung2279](https://github.com/Soung2279) | 对 优妮 的“百度一下”功能的粗糙复现 |2021-09-20 16:09:17|
+| [百度一下](https://github.com/Soung2279/baidu_search) | [@Soung2279](https://github.com/Soung2279) | 对 优妮 的“百度一下”功能的粗糙复现 |2021-09-20 16:09:17|
 | [可爱小七海语音♥](https://github.com/Soung2279/NANA7MI_REC) | [@Soung2279](https://github.com/Soung2279) | 是 可爱小七海 的语音♥~~ 群聊中发送 七海Nana7mi 有关的 切片语音/古神语/怪话合集/各种不能转的二创 |2021-10-30 12:19:10|
 | [hoshino广播再进化](https://github.com/azmiao/broadcast-plus-plus) | [@azmiao](https://github.com/azmiao) | 注：这个不是插件！直接拿[@冷雷佬](https://github.com/ColdThunder11)的东西改的，欸嘿嘿，我是不是很机智 |2022-09-06 17:26:34|
 | [生草图片生成器](https://github.com/BlueDeer233/image_generator) |[@BlueDeer233](https://github.com/BlueDeer233) | 集成了多种图像生成器的插件|2022-05-07 21:05:21|
@@ -148,14 +148,14 @@
 | [market](https://github.com/cc004/market) | [@cc004](https://github.com/cc004) | hoshinobot的大头菜插件 |2022-01-21 16:22:53|
 | [pcrjjc2](https://github.com/cc004/pcrjjc2) | [@cc004](https://github.com/cc004) | 公主连结竞技场排名查询订阅工具 |2024-05-15 14:38:17|
 | [邦邦档线预测](https://github.com/assassingyk/bandori-predict) | [@assassingyk](https://github.com/assassingyk) | BanGDream音游档线预测工具 |2022-06-15 15:58:22|
-| [maimaiDX](https://github.com/Yuri-YuzuChaN/maimaiDX) | [@Yuri-YuzuChaN](https://github.com/Yuri-YuzuChaN) | 街机音游舞萌DX查询插件，移植自xybot及mai-bot |2024-05-07 14:38:36|
+| [maimaiDX](https://github.com/Yuri-YuzuChaN/maimaiDX) | [@Yuri-YuzuChaN](https://github.com/Yuri-YuzuChaN) | 街机音游舞萌DX查询插件，移植自xybot及mai-bot |2024-06-10 21:27:59|
 | [战地 1/4/5 战绩查询](https://github.com/azmiao/bf_search) | [@azmiao](https://github.com/azmiao) | 可公开版本的 战地1 / 战地4 / 战地5 战绩信息查询插件，偷偷感谢一下冷雷佬和K-ON服服主 SuzuBucket |2021-09-29 13:17:32|
 | [A-soul发病小作文](https://github.com/RMYHY/RBot/tree/main/HoshinoBot/hoshino/modules/asill) | [@RMYHY](https://github.com/RMYHY) | 可自定义发病对象的真情实感小作文 |2022-05-26 13:17:55|
 | [本地涩图增强版](https://github.com/Soung2279/setu-local-extra) | [@Soung2279](https://github.com/Soung2279) | hoshino的本地涩图魔改版，可自助重置次数和自定义撤回等。 |2022-08-30 03:10:52|
 | [币安推送](https://github.com/scofieldle/LeoBot/tree/main/hoshino/modules/bianPush) | [@scofieldle](https://github.com/scofieldle) | 本插件用于动态监测币安上各种货币涨跌情况 |2022-06-21 09:49:47|
 | [P站搜索](https://github.com/scofieldle/LeoBot/tree/main/hoshino/modules/pixiv_new) | [@scofieldle](https://github.com/scofieldle) | 使用refresh_token和插件pixiv3直接获取P站插画，可根据画师ID和插画ID搜索相关的插画 |2022-06-21 09:49:47|
 | [崩3日历](https://github.com/NepPure/bh3_calendar) | [@NepPure](https://github.com/NepPure) | [@zyujs](https://github.com/zyujs)风格崩3日历，数据源游戏内公告 |2021-10-04 16:33:41|
-| [原神日历](https://github.com/NepPure/genshin_calendar) | [@NepPure](https://github.com/NepPure) | [@zyujs](https://github.com/zyujs)风格原神日历，数据源游戏内公告 |2022-09-26 22:52:16|
+| [原神日历](https://github.com/NepPure/genshin_calendar) | [@NepPure](https://github.com/NepPure) | [@zyujs](https://github.com/zyujs)风格原神日历，数据源游戏内公告 |2024-06-09 21:26:21|
 | [osuv2](https://github.com/Yuri-YuzuChaN/osuv2) | [@Yuri-YuzuChaN](https://github.com/Yuri-YuzuChaN) | 音游osu查询插件v2api版本，新的发送方式及功能 |2023-09-15 15:51:55|
 | [台服会战排名查询](https://github.com/pcrbot/clan_search_tw) | [@azmiao](https://github.com/azmiao) | 查询台服的会战排名和档线（数据来自infedg.xyz和layvtwt.top） |2023-07-03 10:20:40|
 | [大司马发病评论](https://github.com/pcrbot/dasima) | [@Soung2279](https://github.com/Soung2279) | 大司马B站发病评论查看 |2021-08-20 02:44:42|
@@ -176,7 +176,7 @@
 | [淦翻译](https://github.com/daycold1000/guaihua.jpg) | [@daycold1000](https://github.com/daycold1000) | 一个翻译娱乐功能，能把正常的对...对话台词变得奇...奇怪怪...... |仓库已失效|
 | [惠惠爆裂魔法](https://github.com/pcrbot/Explosion) | [@Soung2279](https://github.com/Soung2279) | 惠惠爆裂魔法语音， 有文字匹配 |2021-08-20 02:15:18|
 | [代刀私聊插件](https://github.com/sdyxxjj123/Daidao) | [@sdyxxjj123](https://github.com/sdyxxjj123) | 记录正在代刀，代挂树，暂停伤害，锁助战等 |2021-10-26 10:34:53|
-| [原神KFC语音](https://github.com/GirlKiller512/HoshinoBot_GenshinKFC) | [@GirlKiller512](https://github.com/GirlKiller512) | 原神KFC语音插件（呐呐呐，服务员欧尼酱\~~......异世相遇，尽享美味！） |2021-04-03 16:43:58|
+| [原神KFC语音](https://github.com/GirlKiller512/HoshinoBot_GenshinKFC) <!--cont.-->| [@GirlKiller512](https://github.com/GirlKiller512) | 原神KFC语音插件（呐呐呐，服务员欧尼酱\~~......异世相遇，尽享美味！） |2021-04-03 16:43:58|
 | [setuweb](https://github.com/MiaoXia0/setuweb) | [@MiaoXia0](https://github.com/MiaoXia0)|使用web端的在线setu插件 |2023-02-01 09:16:45|
 | [碧蓝档案](https://github.com/azmiao/bluearchive_hoshino_plugin) | [@azmiao](https://github.com/azmiao) | 由Hoshino修 改的碧蓝档案blue archive插件 |2021-08-15 18:25:47|
 | [命运2简易插件](https://github.com/azmiao/destiny2_hoshino_plugin) | [@azmiao](https://github.com/azmiao) | 另一个命运2插件，从小黑盒自动抓取周报，试炼周报，老九，蛛王信息 |2021-03-09 21:52:41|
