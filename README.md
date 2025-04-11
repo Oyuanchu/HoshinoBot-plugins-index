@@ -85,7 +85,7 @@
 | [赛马娘模拟抽卡](https://github.com/azmiao/uma_gacha) | [@azmiao](https://github.com/azmiao) | 另一个由nb插件移植而来的可自动更新的赛马娘模拟抽卡插件。马之井！冲冲冲 |2022-04-20 16:38:51|
 | [umagacha](https://github.com/assassingyk/umagacha) | [@assassingyk](https://github.com/assassingyk) | 可自动更新卡池的马娘仿真抽卡插件 |2022-04-19 14:55:50|
 | [一穿二补偿计算](https://github.com/CCA2878/Simple1kill2) | [@CCA2878](https://github.com/CCA2878) | 计算填补一穿二到底要填多少伤害。 |2022-01-25 19:34:48|
-| [群聊关键消息记录](https://github.com/CYDXDianXian/chat_count) | [@CYDXDianXian](https://github.com/CYDXDianXian) | 该插件可记录群聊中某关键字的触发次数、时间、与完整消息，并可对储存记录的消息方便的进行读取，以查看群友们都围绕该关键字说了什么 |2022-03-09 17:12:58|
+| [群聊关键消息记录](https://github.com/CYDXDianXian/chat_count) <!--cont.-->| [@CYDXDianXian](https://github.com/CYDXDianXian) | 该插件可记录群聊中某关键字的触发次数、时间、与完整消息，并可对储存记录的消息方便的进行读取，以查看群友们都围绕该关键字说了什么 |2022-03-09 17:12:58|
 | [崩坏3UID查询](https://github.com/chingkingm/honkai_mys) | [@chingkingm](https://github.com/chingkingm) | 查询崩坏3玩家信息 |2022-08-25 22:26:05|
 | [嘉心糖爬](https://github.com/qiandeng1/antiasoul) | [@qiandeng1](https://github.com/qiandeng1) | 球球嘉心糖爬出去吧（x |2022-01-16 21:59:51|
 | [疫情出行政策查询](https://github.com/SlightDust/travelpolicy_HoshinoBot) | [@SlightDust](https://github.com/SlightDust) | 查询疫情出行政策。年关将至大家注意安全做好个人防护。 |2022-01-13 21:56:28|
