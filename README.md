@@ -176,7 +176,7 @@
 | [淦翻译](https://github.com/daycold1000/guaihua.jpg) | [@daycold1000](https://github.com/daycold1000) | 一个翻译娱乐功能，能把正常的对...对话台词变得奇...奇怪怪...... |仓库已失效|
 | [惠惠爆裂魔法](https://github.com/pcrbot/Explosion) | [@Soung2279](https://github.com/Soung2279) | 惠惠爆裂魔法语音， 有文字匹配 |2021-08-20 02:15:18|
 | [代刀私聊插件](https://github.com/sdyxxjj123/Daidao) | [@sdyxxjj123](https://github.com/sdyxxjj123) | 记录正在代刀，代挂树，暂停伤害，锁助战等 |2021-10-26 10:34:53|
-| [原神KFC语音](https://github.com/GirlKiller512/HoshinoBot_GenshinKFC) <!--cont.-->| [@GirlKiller512](https://github.com/GirlKiller512) | 原神KFC语音插件（呐呐呐，服务员欧尼酱\~~......异世相遇，尽享美味！） |2021-04-03 16:43:58|
+| [原神KFC语音](https://github.com/GirlKiller512/HoshinoBot_GenshinKFC) | [@GirlKiller512](https://github.com/GirlKiller512) | 原神KFC语音插件（呐呐呐，服务员欧尼酱\~~......异世相遇，尽享美味！） |2021-04-03 16:43:58|
 | [setuweb](https://github.com/MiaoXia0/setuweb) | [@MiaoXia0](https://github.com/MiaoXia0)|使用web端的在线setu插件 |2023-02-01 09:16:45|
 | [碧蓝档案](https://github.com/azmiao/bluearchive_hoshino_plugin) | [@azmiao](https://github.com/azmiao) | 由Hoshino修 改的碧蓝档案blue archive插件 |2021-08-15 18:25:47|
 | [命运2简易插件](https://github.com/azmiao/destiny2_hoshino_plugin) | [@azmiao](https://github.com/azmiao) | 另一个命运2插件，从小黑盒自动抓取周报，试炼周报，老九，蛛王信息 |2021-03-09 21:52:41|
@@ -253,7 +253,7 @@
 | 名称 | 作者 | 备注 | 更新时间 |
 | --- | --- | --- | --- |
 | [Hoshino-cli](https://github.com/pcrbot/hsn) | [@wdvxdr1123](https://github.com/wdvxdr1123) | 命令行快速安装 HoshinoBot 插件 |2021-01-21 15:48:57|
-| [Hoshino-installer](https://github.com/pcrbot/hoshino-installer) | [@yuudi](https://github.com/yuudi) | HoshinoBot 一键安装脚本 |2020-12-19 21:30:53|
+| [Hoshino-installer](https://github.com/pcrbot/hoshino-installer) <!--cont.-->| [@yuudi](https://github.com/yuudi) | HoshinoBot 一键安装脚本 |2020-12-19 21:30:53|
 
 ## 发布内容
 
